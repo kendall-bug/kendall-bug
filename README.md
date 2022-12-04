@@ -2,9 +2,9 @@
 - 👀 Interests: I am a lover of all things statistics! Especially if it involves Natural Language Processing, People Analytics, Consumer Insights, and Machine Learning. 
 - 🌱 What I'm Learning: Most of my projects are inspired by a topic or idea that I experience in my personal life. I am looking to continue growing my Python skillset, and seeking to connect with others in the Data Science community!
 - 💻 Languages and Tools:
-![python](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![sql](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![r](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![python](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=pythonb&logoColor=white)]
+![sql](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=SQL&logoColor=white)]
+![r](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=R&logoColor=white)]
 
 
 
