@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kendall-bug. I am a Data Scientist based out of Chicago, Illinois.
+- 👋 Hi, I’m @kendall-bug. I am a Data Scientist based in Chicago, Illinois, USA.
 - 👀 Interests: I am a lover of all things statistics! Especially if it involves Natural Language Processing, People Analytics, Consumer Insights, and Machine Learning. 
 - 🌱 What I'm Learning: Most of my projects are inspired by a topic or idea that I experience in my personal life. I am looking to continue growing my Python skillset, and seeking to connect with others in the Data Science community!
 - 📫 How to reach me: https://www.linkedin.com/in/kendall-ruber/
