@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=blue)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
 
-- <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+- <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/></a>
 Contact me: https://www.linkedin.com/in/kendall-ruber/
 
 <!---
