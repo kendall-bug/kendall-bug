@@ -10,7 +10,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
 
 - <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/></a>
-Contact me: https://www.linkedin.com/in/kendall-ruber/
+ Contact me: https://www.linkedin.com/in/kendall-ruber/
 
 <!---
 kendall-bug/kendall-bug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
