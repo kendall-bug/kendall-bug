@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kendall-bug. I am a Data Scientist based in Chicago, Illinois, USA.
-- 👀 Interests: I am a lover of all things statistics! Especially if it involves Natural Language Processing, People Data Science, Consumer Insights, and Machine Learning. 
+- 👀 Interests: I am a lover of all things statistics! Especially if it involves People Data Science, Natural Language Processing, Consumer Insights, and Machine Learning. 
 - 🌱 What I'm Learning: Most of my projects are based on a topic or idea that I have been inspired by in my personal life. I am looking to continue growing my Python skillset and connecting with others in the Data Science community!
 - 💻 Some of my Languages and Tools:
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Pythonb&logoColor=green)
